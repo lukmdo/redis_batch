@@ -1,0 +1,9 @@
+redis
+pytest
+
+-e hg+https://code.google.com/p/tulip/#egg=asyncio
+# asyncio (from pypi)
+
+flake8
+nose
+coverage
